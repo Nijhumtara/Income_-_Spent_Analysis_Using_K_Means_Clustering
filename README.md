@@ -41,7 +41,7 @@ K = 5 gave five clearly separated customer segments:
 *SSE for K = 1 to 10, used to choose K = 5.*
 
 ### Customer Clusters (K = 5)
-![Customer Clusters](images/customer_clusters.png)
+![Customer Clusters](images/income_spent_analysis.png)
 *Customer segments by income and spending score, with centroids marked in red.*
 
 ## 🚀 How to Run
